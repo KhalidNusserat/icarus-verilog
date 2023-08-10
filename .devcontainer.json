@@ -1,0 +1,11 @@
+{
+	"image": "khalidnuss/icarus-verilog:0.0.1",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mshr-h.veriloghdl",
+				"ms-python.python"
+			]
+		}
+	}
+}
